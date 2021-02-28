@@ -9,7 +9,7 @@ Chlamy-EnPhosSite: A deep learning-based approach for Chlamydomonas reinhardtii-
   Sklearn <br/>
   Imblearn <br/>
  # Dataset
- Dataset is in FASTA format which includes protein window size of 57. Test dataset is provided. There are two dataset for positive and negative examples.
+ Dataset is in FASTA format which includes protein window size of 57. Both training and test datasets are provided. There are two dataset for positive and negative examples.
  # Model
  There are two models included. Multi-window based model(Chlamy-MwPhosSite) and ensemble stacking based model (Chlamy-EnPhosSite).The pretrained model file with format *.h5 is included.  
  # Prediction for given test dataset
