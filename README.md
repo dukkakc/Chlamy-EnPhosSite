@@ -8,6 +8,8 @@ Chlamy-EnPhosSite: A deep learning-based approach for Chlamydomonas reinhardtii-
   Biopython <br/>
   Sklearn <br/>
   Imblearn <br/>
+ # Files extraction
+ Extract using winrar or any application that support *.rar files. Start with chlamy.part01. Place all files in same folder.
  # Dataset
  Dataset is in FASTA format which includes protein window size of 57. Both training and test datasets are provided. There are two dataset for positive and negative examples.
  # Model
